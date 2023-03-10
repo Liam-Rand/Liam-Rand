@@ -19,7 +19,9 @@ I am a 23-year-old programmer with a huge passion for things such as software de
       <a href="https://github.com/liam-rand?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liam-rand?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://www.fiverr.com/cobaplatinum">
-         <img alt="Fiverr" title="Find me on Fiverr" src="https://custom-icon-badges.demolab.com/badge/-Find%20me%20on%20Fiverr-darkgreen?style=for-the-badge&logoColor=white&logo=file"/></a>
+         <img alt="Fiverr" title="Find me on Fiverr" src="https://custom-icon-badges.demolab.com/badge/-Find%20me%20on%20Fiverr-darkgreen?style=for-the-badge&logoColor=white&logo=tag"/></a>
+ <a href="[www](https://liamrand.me/)">
+ <img alt="My Website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-My%20Website-blue?style=for-the-badge&logoColor=white&logo=link-external"/></a>
    </p>
 </details>
 
