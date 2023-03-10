@@ -62,9 +62,13 @@ I am a 23-year-old programmer with a huge passion for things such as software de
 <details open> 
 <summary><h2>📊 Github Stats</h2></summary>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=liam-rand&hide_border=true&theme=github_dark&show_icons=true"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-rand&hide_border=true&theme=github_dark&show_icons=truelayout=compact"/>  
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=liam-rand&hide_border=true&theme=github_dark&show_icons=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-rand&hide_border=true&theme=github_dark&show_icons=truelayout=compact"/>  
+<br/>
+ 
+ <b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
+<img alt="Liam Rand's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=liam-rand&theme=github-dark&hide_border=true" /></a>
 </details>
 <!--
 **Liam-Rand/Liam-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
