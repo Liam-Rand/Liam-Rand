@@ -1,7 +1,8 @@
 <h1>🖥️ Liam Rand</h1>
 
-### ❓ About
- <br />
+<details open> 
+<summary><h2>😄 About Me</h2></summary>
+<br />
  
 **`Digital Craftsman (Developer/Editor/Creator)`**
 
@@ -18,9 +19,13 @@ I am a 23-year-old programmer with a huge passion for things such as software de
       <a href="https://github.com/liam-rand?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liam-rand?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+</details>
 
----
+#
 
+<details open> 
+<summary><h2>🛠️ My Favorite Tools</h2></summary>
+ 
 ### ⌨️ Languages
 
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -33,6 +38,7 @@ I am a 23-year-old programmer with a huge passion for things such as software de
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Lua" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+
 <br />
 <br />
 
@@ -50,13 +56,16 @@ I am a 23-year-old programmer with a huge passion for things such as software de
 <img align="left" alt="BitBucket" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>
 
 <br />
+</details>
 
 #
-### 📊 Github Stats
+<details open> 
+<summary><h2>📊 Github Stats</h2></summary>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=liam-rand&theme=github_dark&show_icons=true"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-rand&theme=github_dark&show_icons=truelayout=compact"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=liam-rand&hide_border=true&theme=github_dark&show_icons=true"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-rand&hide_border=true&theme=github_dark&show_icons=truelayout=compact"/>  
 
+</details>
 <!--
 **Liam-Rand/Liam-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
