@@ -1,8 +1,23 @@
-# 🖥️ Liam Rand
+<h1>🖥️ Liam Rand</h1>
 
+### ❓ About
+ <br />
+ 
 **`Digital Craftsman (Developer/Editor/Creator)`**
 
 I am a 23-year-old programmer with a huge passion for things such as software development and game development. I have been programming since I was 13 years old and first started making games in Microsoft PowerPoint. I specialize in designing and writing programs and games and am open to trying anything that utilizes a language that I am familiar with! I can't wait to see what we can create!
+
+- 🔭 I’m currently working on: <b>Creating my first Fiverr gig!</b>
+- 🌱 I’m currently learning: <b>Dart</b>
+- 📫 How to reach me: <b>liam.m.rand@gmail.com</b>
+
+ <br />
+<p align="left">
+      <a href="https://github.com/liam-rand?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/liam-rand?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/liam-rand?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liam-rand?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ---
 
@@ -37,6 +52,10 @@ I am a 23-year-old programmer with a huge passion for things such as software de
 <br />
 
 #
+### 📊 Github Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=liam-rand&theme=github_dark&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-rand&theme=github_dark&show_icons=truelayout=compact"/>
 
 <!--
 **Liam-Rand/Liam-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
