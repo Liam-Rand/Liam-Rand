@@ -67,12 +67,12 @@ I am a 23-year-old programmer with a huge passion for things such as software de
 #
 
 <details open> 
-  <summary><h2>📘 My Favorite Projects</h2></summary>
+  <summary><h2>📖 My Favorite Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=github_dark&hide_border=true&bg_color=151b25&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Liam-Rand/Corner-Grocer-App"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=liam-rand&repo=Corner-Grocer-App&theme=github_dark&hide_border=true&bg_color=151b25&icon_color=F8D866&show_icons=true" alt="Corner-Grocer-App"></a>
   </p>
 
   <a href="https://github.com/liam-rand?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
