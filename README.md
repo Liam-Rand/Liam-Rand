@@ -6,10 +6,10 @@
  
 **`Digital Craftsman (Developer/Editor/Creator)`**
 
-I am a 23-year-old programmer with a huge passion for things such as software development and game development. I have been programming since I was 13 years old and first started making games in Microsoft PowerPoint. I specialize in designing and writing programs and games and am open to trying anything that utilizes a language that I am familiar with! I can't wait to see what we can create!
+I am a 25-year-old programmer with a huge passion for things such as software development and game development. I have been programming since I was 13 years old and first started making games in Microsoft PowerPoint. I specialize in designing and writing programs and games and am open to trying anything that utilizes a language that I am familiar with! I can't wait to see what we can create!
 
-- 🔭 I’m currently working on: <b>Creating my first Fiverr gig!</b>
-- 🌱 I’m currently learning: <b>Dart</b>
+- 🔭 I’m currently working on: <b>Some personal projects for fun!</b>
+- 🌱 I’m currently learning: <b>Custom editors in Unity</b>
 - 📫 How to reach me: <b>liam.m.rand@gmail.com</b>
 
  <br />
