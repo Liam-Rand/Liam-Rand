@@ -19,7 +19,7 @@ I am a 25-year-old programmer with a huge passion for things such as software de
       <a href="https://github.com/liam-rand?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liam-rand?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="[https://liamrand.me](https://www.linkedin.com/in/liam-rand/)">
-         <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-My%20Website-blue?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+         <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </p>
 </details>
 
