@@ -1,4 +1,6 @@
-![](LiamRandLogoLong.png)
+<p align="center">
+  <img src="LiamRandLogoLong.png" width="49%" />
+</p>
 
 <br />
 
