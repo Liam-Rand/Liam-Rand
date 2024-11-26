@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LiamRandLogoLong.png" width="49%" />
+  <img src="LiamRandLogoLong.png" width="49%" height="10%"/>
 </p>
 
 <br />
