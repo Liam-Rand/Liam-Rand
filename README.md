@@ -1,4 +1,4 @@
-![]("LiamRandLogoLong(Cropped).png")
+![](LiamRandLogoLong(Cropped).png)
 
 <br />
 
