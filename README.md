@@ -1,4 +1,6 @@
-<h1>🖥️ Liam Rand</h1>
+![](LiamRandLogoLong.png)
+
+<br />
 
 <details open> 
 <summary><h2>😄 About Me</h2></summary>
